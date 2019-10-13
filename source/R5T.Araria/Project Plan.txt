@@ -1,4 +1,4 @@
-R5T.Araria - A codenamed experiment fir creating a PathInfo library.
+R5T.Araria - A codenamed experiment for creating a PathInfo library.
 
 Goals
 
